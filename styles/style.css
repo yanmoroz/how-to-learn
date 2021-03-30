@@ -18,7 +18,7 @@
 }
 
 .logo {
-  
+
 }
 
 .logo_place_header {
@@ -154,6 +154,8 @@
   flex-wrap: wrap;
   justify-content: space-between;
   position: relative;
+  list-style: none;
+  padding: 0;
 }
 
 .table__cell {
@@ -274,6 +276,10 @@
   width: 90%;
   display: flex;
   justify-content: space-between;
+}
+
+.footer__column {
+
 }
 
 .footer__column_content_copyright {
