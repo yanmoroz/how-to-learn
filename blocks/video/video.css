@@ -1,4 +1,7 @@
+@import url('__iframes/video__iframes.css');
+@import url('__iframe/video__iframe.css');
+
 .video {
-  background-color: green;
-  min-height: 300px;
+  padding-top: 100px;
+  margin: 0 auto;
 }
